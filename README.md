@@ -1,9 +1,3 @@
-Of course. A good `README.md` file is essential for any GitHub project. It should clearly explain what the project does, how to run it, and what the results are.
-
-Here is a comprehensive `README.md` file tailored to your project. You can copy and paste the entire content below into a new file named `README.md` in your repository.
-
------
-
 # Sentiment Analysis on Restaurant Reviews
 
 This project analyzes restaurant reviews and classifies them as either **Positive** or **Negative** using Natural Language Processing (NLP) and various machine learning models. The primary goal is to build an effective classification model and evaluate its performance.
@@ -134,4 +128,4 @@ The final prediction function uses the tuned Multinomial Naive Bayes model due t
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/Restaurant-Review-Sentiment-Analysis/issues).
+Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/divyanshmathur004/Restaurant-Review-Sentiment-Analysis/).
