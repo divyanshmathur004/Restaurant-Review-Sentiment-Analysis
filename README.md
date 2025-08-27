@@ -128,4 +128,4 @@ The final prediction function uses the tuned Multinomial Naive Bayes model due t
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/divyanshmathur004/Restaurant-Review-Sentiment-Analysis/).
+Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/divyanshmathur004/Restaurant-Review-Sentiment-Analysis).
