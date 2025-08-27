@@ -56,7 +56,7 @@ To run this project locally, follow these steps:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/Restaurant-Review-Sentiment-Analysis.git
+    git clone https://github.com/divyanshmathur004/Restaurant-Review-Sentiment-Analysis.git
     cd Restaurant-Review-Sentiment-Analysis
     ```
 
@@ -93,7 +93,7 @@ To run this project locally, follow these steps:
     jupyter notebook
     ```
 
-3.  Open the `Sentiment_Analysis_on_Restaurant_Reviews_IBM.ipynb` file.
+3.  Open the `Sentiment_Analysis_on_Restaurant_Reviews.ipynb` file.
 
 4.  Run the cells in order from top to bottom. The final cell allows you to input your own review to get a sentiment prediction.
 
